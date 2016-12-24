@@ -51,7 +51,7 @@ namespace Space_Invaders
             Console.SetCursorPosition(52, 4);
             Console.WriteLine("2) Normal");
             Console.SetCursorPosition(52, 5);
-            Console.WriteLine("Hard");
+            Console.WriteLine("3) Hard");
             Console.SetCursorPosition(52, 7);
             Time.Speed = 8;
             Time.modifier = 3;
