@@ -1,0 +1,6 @@
+c:\users\iaman\documents\visual studio 2015\Projects\Space_Invaders\Space_Invaders\bin\Debug\Space_Invaders.exe.config
+C:\Users\iaman\documents\visual studio 2015\Projects\Space_Invaders\Space_Invaders\bin\Debug\Space_Invaders.exe
+C:\Users\iaman\documents\visual studio 2015\Projects\Space_Invaders\Space_Invaders\bin\Debug\Space_Invaders.pdb
+C:\Users\iaman\documents\visual studio 2015\Projects\Space_Invaders\Space_Invaders\obj\Debug\Space_Invaders.exe
+C:\Users\iaman\documents\visual studio 2015\Projects\Space_Invaders\Space_Invaders\obj\Debug\Space_Invaders.pdb
+C:\Users\iaman\documents\visual studio 2015\Projects\Space_Invaders\Space_Invaders\obj\Debug\Space_Invaders.csprojResolveAssemblyReference.cache
